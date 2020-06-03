@@ -1,0 +1,39 @@
+[
+    {
+        "577": {
+            "2593": {},
+            "2594": {
+                "command": "Pick closed-reference OTUs (QIIMEq2 1.9.1)",
+                "generated on": "2015-06-30 14:06",
+                "input_data": "310",
+                "reference-seq": "/databases/gg/13_8/rep_set/97_otus.fasta",
+                "reference-tax": "/databases/gg/13_8/taxonomy/97_otu_taxonomy.txt",
+                "similarity": "0.97",
+                "sortmerna_coverage": "0.97",
+                "sortmerna_e_value": "1",
+                "sortmerna_max_pos": "10000",
+                "threads": "1"
+            },
+            "310": {
+                "barcode_type": "golay_12",
+                "command": "Split libraries (QIIMEq2 1.9.1)",
+                "disable_bc_correction": "False",
+                "disable_primers": "False",
+                "generated on": "2016-01-14 17:01",
+                "input_data": "2593",
+                "max_ambig": "6",
+                "max_barcode_errors": "1.5",
+                "max_homopolymer": "6",
+                "max_primer_mismatch": "0",
+                "max_seq_len": "1000",
+                "min_qual_score": "25",
+                "min_seq_len": "200",
+                "qual_score_window": "0",
+                "reverse_primer_mismatches": "0",
+                "reverse_primers": "disable",
+                "trim_seq_length": "False",
+                "truncate_ambi_bases": "False"
+            }
+        }
+    }
+]

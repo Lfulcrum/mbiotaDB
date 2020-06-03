@@ -1,0 +1,7 @@
+# Ignore irrelevant config/log files
+/.flake8
+/.coverage
+
+# Ignore pycache and pytest_cache folders
+*/__pycache__
+test/.pytest_cache

@@ -1,0 +1,533 @@
+TY  - JOUR
+T1  - Global patterns in the biogeography of bacterial taxa
+A1  - Nemergut, Diana R.
+A1  - Costello, Elizabeth K.
+A1  - Hamady, Micah
+A1  - Lozupone, Catherine
+A1  - Jiang, Lin
+A1  - Schmidt, Steven K.
+A1  - Fierer, Noah
+A1  - Townsend, Alan R.
+A1  - Cleveland, Cory C.
+A1  - Stanish, Lee
+A1  - Knight, Rob
+Y1  - 2011/01//
+JF  - Environmental Microbiology
+VL  - 13
+IS  - 1
+SP  - 135
+EP  - 144
+SN  - 1462-2920 (Electronic)\n1462-2912 (Linking)
+DO  - 10.1111/j.1462-2920.2010.02315.x
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/21199253
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5834236
+UR  - http://doi.wiley.com/10.1111/j.1462-2920.2010.02315.x
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2011 Nemergut_et_al - Global patterns in the biogeography of bacterial taxa.pdf
+N2  - Bacteria control major nutrient cycles and directly influence plant, animal and human health. However, we know relatively little about the forces shaping their large-scale ecological ranges. Here, we reveal patterns in the distribution of individual bacterial taxa at multiple levels of phylogenetic resolution within and between Earth's major habitat types. Our analyses suggest that while macro-scale habitats structure bacterial distribution to some degree, abundant bacteria (i.e. detectable using 16S rRNA gene sequencing methods) are confined to single assemblages. Additionally, we show that the most cosmopolitan taxa are also the most abundant in individual assemblages. These results add to the growing body of data that support that the diversity of the overall bacterial metagenome is tremendous. The mechanisms governing microbial distribution remain poorly understood, but our analyses provide a framework with which to test the importance of macro-ecological environmental gradients, relative abundance, neutral processes and the ecological strategies of individual taxa in structuring microbial communities.
+ER  - 
+TY  - JOUR
+T1  - Strain-resolved community genomic analysis of gut microbial colonization in a premature infant
+A1  - Morowitz, M. J.
+A1  - Denef, V. J.
+A1  - Costello, E. K.
+A1  - Thomas, B. C.
+A1  - Poroyko, V.
+A1  - Relman, D. A.
+A1  - Banfield, J. F.
+Y1  - 2011/01//
+KW  - assembly
+KW  - human microbiome
+KW  - metagenomics
+KW  - strain variation
+KW  - succession
+JF  - Proceedings of the National Academy of Sciences
+VL  - 108
+IS  - 3
+SP  - 1128
+EP  - 1133
+SN  - 1102185108
+DO  - 10.1073/pnas.1010992108
+UR  - http://www.pnas.org/cgi/doi/10.1073/pnas.1010992108
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Sources/2011 Morowitz - Strain-resolved community genomic analysis of gut microbial colonization in a premature infant [PNAS].pdf
+N2  - The intestinal microbiome is a critical determinant of human health. Alterations in its composition have been correlated with chronic disorders, such as obesity and inflammatory bowel disease in adults, and may be associated with neonatal necrotizing enterocolitis in premature infants. Increasing evidence suggests that strain-level genomic variation may underpin distinct ecological trajectories within mixed populations, yet there have been few strain-resolved analyses of genotype-phenotype connections in the context of the human ecosystem. Here, we document strain-level genomic divergence during the first 3 wk of life within the fecal microbiota of an infant born at 28-wk gestation. We observed three compositional phases during colonization, and reconstructed and intensively curated population genomic datasets from the third phase. The relative abundance of two Citrobacter strains sharing ~99% nucleotide identity changed significantly over time within a community dominated by a nearly clonal Serratia population and harboring a lower abundance Enterococcus population and multiple plasmids and bacteriophage. Modeling of Citrobacter strain abundance suggests differences in growth rates and host colonization patterns. We identified genotypic variation potentially responsible for divergent strain ecologies, including hotspots of sequence variation in regulatory genes and intergenic regions, and in genes involved in transport, flagellar biosynthesis, substrate metabolism, and host colonization, as well as differences in the complements of these genes. Our results demonstrate that a community genomic approach can elucidate gut microbial colonization at the resolution required to discern medically relevant strain and species population dynamics, and hence improve our ability to diagnose and treat microbial community-mediated disorders.
+ER  - 
+TY  - JOUR
+T1  - Genomic variation landscape of the human gut microbiome
+A1  - Schloissnig, Siegfried
+A1  - Arumugam, Manimozhiyan
+A1  - Sunagawa, Shinichi
+A1  - Mitreva, Makedonka
+A1  - Tap, Julien
+A1  - Zhu, Ana
+A1  - Waller, Alison
+A1  - Mende, Daniel R.
+A1  - Kultima, Jens Roat
+A1  - Martin, John
+A1  - Kota, Karthik
+A1  - Sunyaev, Shamil R.
+A1  - Weinstock, George M.
+A1  - Bork, Peer
+Y1  - 2012/12//
+PB  - Nature Publishing Group
+JF  - Nature
+VL  - 493
+IS  - 7430
+SP  - 45
+EP  - 50
+SN  - 1476-4687 (Electronic)\r0028-0836 (Linking)
+DO  - 10.1038/nature11711
+UR  - http://dx.doi.org/10.1038/nature11711
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/23222524
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3536929
+UR  - http://www.nature.com/doifinder/10.1038/nature11711
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Warwick/For essay/2012 Schloissnig - Genomic variation landscape of the human gut microbiome.pdf
+N2  - Whereas large-scale efforts have rapidly advanced the understanding and practical impact of human genomic variation, the practical impact of variation is largely unexplored in the human microbiome. We therefore developed a framework for metagenomic variation analysis and applied it to 252 faecal metagenomes of 207 individuals from Europe and North America. Using 7.4 billion reads aligned to 101 reference species, we detected 10.3 million single nucleotide polymorphisms (SNPs), 107,991 short insertions/deletions, and 1,051 structural variants. The average ratio of non-synonymous to synonymous polymorphism rates of 0.11 was more variable between gut microbial species than across human hosts. Subjects sampled at varying time intervals exhibited individuality and temporal stability of SNP variation patterns, despite considerable composition changes of their gut microbiota. This indicates that individual-specific strains are not easily replaced and that an individual might have a unique metagenomic genotype, which may be exploitable for personalized diet or drug intake.
+ER  - 
+TY  - JOUR
+T1  - Host lifestyle affects human microbiota on daily timescales.
+A1  - David, Lawrence A.
+A1  - Materna, Arne C.
+A1  - Friedman, Jonathan
+A1  - Campos-Baptista, Maria I.
+A1  - Blackburn, Matthew C.
+A1  - Perrotta, Allison
+A1  - Erdman, Susan E.
+A1  - Alm, Eric J.
+Y1  - 2014///
+JF  - Genome biology
+VL  - 15
+IS  - 7
+SP  - R89
+EP  - R89
+SN  - 1465-6914 (Electronic)\r1465-6906 (Linking)
+DO  - 10.1186/gb-2014-15-7-r89
+UR  - http://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-7-r89
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/25146375
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4405912
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2014 David - Host lifestyle affects human microbiota on daily timescales.pdf
+N2  - BACKGROUND Disturbance to human microbiota may underlie several pathologies. Yet, we lack a comprehensive understanding of how lifestyle affects the dynamics of human-associated microbial communities. RESULTS Here, we link over 10,000 longitudinal measurements of human wellness and action to the daily gut and salivary microbiota dynamics of two individuals over the course of one year. These time series show overall microbial communities to be stable for months. However, rare events in each subjects’ life rapidly and broadly impacted microbiota dynamics. Travel from the developed to the developing world in one subject led to a nearly two-fold increase in the Bacteroidetes to Firmicutes ratio, which reversed upon return. Enteric infection in the other subject resulted in the permanent decline of most gut bacterial taxa, which were replaced by genetically similar species. Still, even during periods of overall community stability, the dynamics of select microbial taxa could be associated with specific host behaviors. Most prominently, changes in host fiber intake positively correlated with next-day abundance changes among 15% of gut microbiota members. CONCLUSIONS Our findings suggest that although human-associated microbial communities are generally stable, they can be quickly and profoundly altered by common human actions and experiences.
+ER  - 
+TY  - JOUR
+T1  - Structure, function and diversity of the healthy human microbiome
+A1  - Human Microbiome Project Consortium
+Y1  - 2012/06//
+PB  - Nature Publishing Group
+JF  - Nature
+VL  - 486
+IS  - 7402
+SP  - 207
+EP  - 214
+SN  - 1476-4687 (Electronic) 0028-0836 (Linking)
+DO  - 10.1038/nature11234
+UR  - http://dx.doi.org/10.1038/nature11234
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/22699609
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3564958
+UR  - http://www.nature.com/articles/nature11234
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Warwick/For essay/2012 HMP Consortium - Structure, function and diversity of the healthy human microbiome.pdf
+N2  - Studies of the human microbiome have revealed that even healthy individuals differ remarkably in the microbes that occupy habitats such as the gut, skin and vagina. Much of this diversity remains unexplained, although diet, environment, host genetics and early microbial exposure have all been implicated. Accordingly, to characterize the ecology of human-associated microbial communities, the Human Microbiome Project has analysed the largest cohort and set of distinct, clinically relevant body habitats so far. We found the diversity and abundance of each habitat's signature microbes to vary widely even among healthy subjects, with strong niche specialization both within and among individuals. The project encountered an estimated 81-99% of the genera, enzyme families and community configurations occupied by the healthy Western microbiome. Metagenomic carriage of metabolic pathways was stable among individuals despite variation in community structure, and ethnic/racial background proved to be one of the strongest associations of both pathways and microbes with clinical metadata. These results thus delineate the range of structural and functional configurations normal in the microbial communities of a healthy population, enabling future characterization of the epidemiology, ecology and translational applications of the human microbiome.
+ER  - 
+TY  - JOUR
+T1  - Metagenomics meets time series analysis: unraveling microbial community dynamics
+A1  - Faust, Karoline
+A1  - Lahti, Leo
+A1  - Gonze, Didier
+A1  - de Vos, Willem M.
+A1  - Raes, Jeroen
+Y1  - 2015/06//
+PB  - Elsevier Ltd
+JF  - Current Opinion in Microbiology
+VL  - 25
+SP  - 56
+EP  - 66
+SN  - 1369-5274
+DO  - 10.1016/j.mib.2015.04.004
+UR  - http://dx.doi.org/10.1016/j.mib.2015.04.004
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1369527415000478
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2015 Faust & Lahti - Metagenomics meets time series analysis.pdf
+N2  - The recent increase in the number of microbial time series studies offers new insights into the stability and dynamics of microbial communities, from the world's oceans to human microbiota. Dedicated time series analysis tools allow taking full advantage of these data. Such tools can reveal periodic patterns, help to build predictive models or, on the contrary, quantify irregularities that make community behavior unpredictable. Microbial communities can change abruptly in response to small perturbations, linked to changing conditions or the presence of multiple stable states. With sufficient samples or time points, such alternative states can be detected. In addition, temporal variation of microbial interactions can be captured with time-varying networks. Here, we apply these techniques on multiple longitudinal datasets to illustrate their potential for microbiome research.
+ER  - 
+TY  - JOUR
+T1  - Incomplete recovery and individualized responses of the human distal gut microbiota to repeated antibiotic perturbation
+A1  - Dethlefsen, Les
+A1  - Relman, David A
+Y1  - 2011/03//
+KW  - BMI
+KW  - Bifidobacteria
+KW  - Clostridia
+KW  - Gut microbiota
+KW  - HDL
+KW  - HOMA
+KW  - High Density Lipoprotein
+KW  - Insulin
+KW  - LDL
+KW  - LPS
+KW  - Obesity
+KW  - Quantitative real-time polymerase chain reaction
+KW  - TC
+KW  - TC/HDL
+KW  - body mass index
+KW  - homeostasis model assessment
+KW  - lipopolysaccharide
+KW  - low density lipoprotein
+KW  - qPCR
+KW  - total cholesterol
+KW  - total cholesterol/high density lipoprotein ratio
+JF  - Proceedings of the National Academy of Sciences
+VL  - 108
+IS  - Supplement_1
+SP  - 4554
+EP  - 4561
+SN  - 1330-9862
+DO  - 10.1073/pnas.1000087107
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/23538004
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/20847294
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3063582
+UR  - http://www.pnas.org/cgi/doi/10.1073/pnas.1000087107
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Sources/2011 Dethlefsen - Responses of the human distal gut microbiota to repeated antibiotic perturbation [PNAS].pdf
+N2  - The indigenous human microbiota is essential to the health of the host. Although the microbiota can be affected by many features of modern life, we know little about its responses to disturbance, especially repeated disturbances, and how these changes compare with baseline temporal variation. We examined the distal gut microbiota of three individuals over 10 mo that spanned two courses of the antibiotic ciprofloxacin, analyzing more than 1.7 million bacterial 16S rRNA hypervariable region sequences from 52 to 56 samples per subject. Interindividual variation was the major source of variability between samples. Day-to-day temporal variability was evident but constrained around an average community composition that was stable over several months in the absence of deliberate perturbation. The effect of ciprofloxacin on the gut microbiota was profound and rapid, with a loss of diversity and a shift in community composition occurring within 3-4 d of drug initiation. By 1 wk after the end of each course, communities began to return to their initial state, but the return was often incomplete. Although broadly similar, community changes after ciprofloxacin varied among subjects and between the two courses within subjects. In all subjects, the composition of the gut microbiota stabilized by the end of the experiment but was altered from its initial state. As with other ecosystems, the human distal gut microbiome at baseline is a dynamic regimen with a stable average state. Antibiotic perturbation may cause a shift to an alternative stable state, the full consequences of which remain unknown.
+ER  - 
+TY  - JOUR
+T1  - Bacterial Community Variation in Human Body Habitats Across Space and Time
+A1  - Costello, Elizabeth K
+A1  - Lauber, Christian L
+A1  - Hamady, Micah
+A1  - Fierer, Noah
+A1  - Gordon, Jeffrey I
+A1  - Knight, Rob
+Y1  - 2009/12//
+JF  - Science
+VL  - 326
+IS  - 5960
+SP  - 1694
+EP  - 1697
+SN  - 9780987987143
+DO  - 10.1126/science.1177486
+UR  - https://academic.oup.com/mind/article-lookup/doi/10.1093/mind/XC.357.61
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/19892944
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3602444
+UR  - http://www.sciencemag.org/cgi/doi/10.1126/science.1177486
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2009 Costello - Bacterial community variation in human body habitats across space and time.pdf
+N2  - Elucidating the biogeography of bacterial communities on the human body is critical for establishing healthy baselines from which to detect differences associated with diseases. To obtain an integrated view of the spatial and temporal distribution of the human microbiota, we surveyed bacteria from up to 27 sites in seven to nine healthy adults on four occasions. We found that community composition was determined primarily by body habitat. Within habitats, interpersonal variability was high, whereas individuals exhibited minimal temporal variability. Several skin locations harbored more diverse communities than the gut and mouth, and skin locations differed in their community assembly patterns. These results indicate that our microbiota, although personalized, varies systematically across body habitats and time; such trends may ultimately reveal how microbiome changes cause or prevent disease.
+ER  - 
+TY  - JOUR
+T1  - The dynamics of the human infant gut microbiome in development and in progression toward type 1 diabetes
+A1  - Kostic, Aleksandar D.
+A1  - Gevers, Dirk
+A1  - Siljander, Heli
+A1  - Vatanen, Tommi
+A1  - Hyötyläinen, Tuulia
+A1  - Hämäläinen, Anu Maaria
+A1  - Peet, Aleksandr
+A1  - Tillmann, Vallo
+A1  - Pöhö, Päivi
+A1  - Mattila, Ismo
+A1  - Lähdesmäki, Harri
+A1  - Franzosa, Eric A.
+A1  - Vaarala, Outi
+A1  - De Goffau, Marcus
+A1  - Harmsen, Hermie
+A1  - Ilonen, Jorma
+A1  - Virtanen, Suvi M.
+A1  - Clish, Clary B.
+A1  - Orešič, Matej
+A1  - Huttenhower, Curtis
+A1  - Knip, Mikael
+A1  - Xavier, Ramnik J.
+Y1  - 2015///
+JF  - Cell Host and Microbe
+VL  - 17
+IS  - 2
+SP  - 260
+EP  - 273
+SN  - 1931-3128
+DO  - 10.1016/j.chom.2015.01.001
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Sources/2015 Kostic - The Dynamics of the Human Infant Gut Microbiome in Development and in Progression toward Type 1 Diabetes.pdf
+N2  - Colonization of the fetal and infant gut microbiome results in dynamic changes in diversity, which can impact disease susceptibility. To examine the relationship between human gut microbiome dynamics throughout infancy and type 1 diabetes (T1D), we examined a cohort of 33 infants genetically predisposed to T1D. Modeling trajectories of microbial abundances through infancy revealed a subset of microbial relationships shared across most subjects. Although strain composition of a given species was highly variable between individuals, it was stable within individuals throughout infancy. Metabolic composition and metabolic pathway abundance remained constant across time. A marked drop in alpha-diversity was observed in T1D progressors in the time window between seroconversion and T1D diagnosis, accompanied by spikes in inflammation-favoring organisms, gene functions, and serum and stool metabolites. This work identifies trends in the development of the human infant gut microbiome along with specific alterations that precede T1D onset and distinguish T1D progressors from nonprogressors.
+ER  - 
+TY  - JOUR
+T1  - Succession of microbial consortia in the developing infant gut microbiome
+A1  - Koenig, Jeremy E.
+A1  - Spor, Aymé
+A1  - Scalfone, Nicholas
+A1  - Fricker, Ashwana D.
+A1  - Stombaugh, Jesse
+A1  - Knight, Rob
+A1  - Angenent, Largus T.
+A1  - Ley, Ruth E.
+Y1  - 2011/03//
+JF  - Proceedings of the National Academy of Sciences
+VL  - 108
+IS  - Supplement_1
+SP  - 4578
+EP  - 4585
+SN  - 1091-6490 (Electronic)\r0027-8424 (Linking)
+DO  - 10.1073/pnas.1000081107
+UR  - http://www.pnas.org/cgi/doi/10.1073/pnas.1000081107
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/20668239
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3063592
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Sources/2011 Koenig - Succession of microbial consortia in the developing infant gut microbiome [PNAS].pdf
+N2  - The colonization process of the infant gut microbiome has been called chaotic, but this view could reflect insufficient documentation of the factors affecting the microbiome. We performed a 2.5-y case study of the assembly of the human infant gut microbiome, to relate life events to microbiome composition and function. Sixty fecal samples were collected from a healthy infant along with a diary of diet and health status. Analysis of >300,000 16S rRNA genes indicated that the phylogenetic diversity of the microbiome increased gradually over time and that changes in community composition conformed to a smooth temporal gradient. In contrast, major taxonomic groups showed abrupt shifts in abundance corresponding to changes in diet or health. Community assembly was nonrandom: we observed discrete steps of bacterial succession punctuated by life events. Furthermore, analysis of ≈ 500,000 DNA metagenomic reads from 12 fecal samples revealed that the earliest microbiome was enriched in genes facilitating lactate utilization, and that functional genes involved in plant polysaccharide metabolism were present before the introduction of solid food, priming the infant gut for an adult diet. However, ingestion of table foods caused a sustained increase in the abundance of Bacteroidetes, elevated fecal short chain fatty acid levels, enrichment of genes associated with carbohydrate utilization, vitamin biosynthesis, and xenobiotic degradation, and a more stable community composition, all of which are characteristic of the adult microbiome. This study revealed that seemingly chaotic shifts in the microbiome are associated with life events; however, additional experiments ought to be conducted to assess how different infants respond to similar life events.
+ER  - 
+TY  - JOUR
+T1  - Longitudinal analysis of microbial interaction between humans and the indoor environment
+A1  - Lax, Simon
+A1  - Smith, Daniel P
+A1  - Hampton-Marcell, Jarrad
+A1  - Owens, Sarah M
+A1  - Handley, Kim M
+A1  - Scott, Nicole M
+A1  - Gibbons, Sean M
+A1  - Larsen, Peter
+A1  - Shogan, Benjamin D
+A1  - Weiss, Sophie
+A1  - Metcalf, Jessica L
+A1  - Ursell, Luke K
+A1  - Vazquez-Baeza, Y.
+A1  - Van Treuren, Will
+A1  - Hasan, Nur A
+A1  - Gibson, Molly K
+A1  - Colwell, Rita
+A1  - Dantas, Gautam
+A1  - Knight, Rob
+A1  - Gilbert, Jack A
+Y1  - 2014/08//
+JF  - Science
+VL  - 345
+IS  - 6200
+SP  - 1048
+EP  - 1052
+DO  - 10.1126/science.1254529
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/4337996
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/25170151
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4337996
+UR  - http://www.sciencemag.org/cgi/doi/10.1126/science.1254529
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Sources/2014 Lax - Longitudinal analysis of microbial interaction between humans and the indoor environment [Science] Copy.pdf
+N2  - The bacteria that colonize humans and our built environments have the potential to influence our health. Microbial communities associated with seven families and their homes over 6 weeks were assessed, including three families that moved their home. Microbial communities differed substantially among homes, and the home microbiome was largely sourced from humans. The microbiota in each home were identifiable by family. Network analysis identified humans as the primary bacterial vector, and a Bayesian method significantly matched individuals to their dwellings. Draft genomes of potential human pathogens observed on a kitchen counter could be matched to the hands of occupants. After a house move, the microbial community in the new house rapidly converged on the microbial community of the occupants' former house, suggesting rapid colonization by the family's microbiota.
+ER  - 
+TY  - JOUR
+T1  - The Long-Term Stability of the Human Gut Microbiota
+A1  - Faith, Jeremiah J.
+A1  - Guruge, Janaki L.
+A1  - Charbonneau, Mark
+A1  - Subramanian, Sathish
+A1  - Seedorf, Henning
+A1  - Goodman, Andrew L.
+A1  - Clemente, Jose C.
+A1  - Knight, Rob
+A1  - Heath, Andrew C.
+A1  - Leibel, Rudolph L.
+A1  - Rosenbaum, Michael
+A1  - Gordon, Jeffrey I.
+Y1  - 2013/07//
+JF  - Science
+VL  - 341
+IS  - 6141
+SP  - 1237439
+EP  - 1237439
+SN  - 1095-9203 (Electronic)\r0036-8075 (Linking)
+DO  - 10.1126/science.1237439
+UR  - http://www.sciencemag.org/cgi/doi/10.1126/science.1237439
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/23828941
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3791589
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Sources/2013 Faith - The long-term stability of the human gut microbiota [Science].pdf
+N2  - A low-error 16S ribosomal RNA amplicon sequencing method, in combination with whole-genome sequencing of >500 cultured isolates, was used to characterize bacterial strain composition in the fecal microbiota of 37 U.S. adults sampled for up to 5 years. Microbiota stability followed a power-law function, which when extrapolated suggests that most strains in an individual are residents for decades. Shared strains were recovered from family members but not from unrelated individuals. Sampling of individuals who consumed a monotonous liquid diet for up to 32 weeks indicated that changes in strain composition were better predicted by changes in weight than by differences in sampling interval. This combination of stability and responsiveness to physiologic change confirms the potential of the gut microbiota as a diagnostic tool and therapeutic target.
+ER  - 
+TY  - JOUR
+T1  - Long-Term Temporal Analysis of the Human Fecal Microbiota Revealed a Stable Core of Dominant Bacterial Species
+A1  - Martínez, Inés
+A1  - Muller, Catherine E.
+A1  - Walter, Jens
+ED  - Gilbert, Jack Anthony
+Y1  - 2013/07//
+JF  - PLoS ONE
+VL  - 8
+IS  - 7
+SP  - e69621
+EP  - e69621
+SN  - 1932-6203 (Electronic)\n1932-6203 (Linking)
+DO  - 10.1371/journal.pone.0069621
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/23874976
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3712949
+UR  - https://dx.plos.org/10.1371/journal.pone.0069621
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Sources/2013 Martínez - Long-Term Temporal Analysis of the Human Fecal Microbiota Revealed a Stable Core of Dominant Bacterial Species [PLoS ].pdf
+N2  - Next-generation sequencing has greatly contributed to an improved ecological understanding of the human gut microbiota. Nevertheless, questions remain regarding the characteristics of this ecosystem and the ecological processes that shape it, and controversy has arisen regarding the stability of the bacterial populations and the existence of a temporal core. In this study, we have characterized the fecal microbial communities of three human individuals over a one-year period by 454 pyrosequencing of 16S rRNA tags in order to investigate the temporal characteristics of the bacterial communities. The findings revealed a temporal core of 33 to 40 species-level Operational Taxonomic Units (OTUs) within subjects. Although these OTUs accounted only for around 12% of the total OTUs detected, they added up to >75% of the total sequences obtained for each individual. In order to determine the capacity of the sequencing and bioinformatic approaches applied during this study to accurately determine the proportion of a core microbiota, we analyzed the fecal microbiota of nine mice with a defined three-member community. This experiment revealed that the sequencing approach inflated the amount of rare OTUs, which introduced a significant degree of artificial variation across samples, and hence reduced the apparent fraction of shared OTUs. However, when assessing the data quantitatively by focusing on dominant lineages, the sequencing approaches deliver an accurate representation of the community. In conclusion, this study revealed that the human fecal microbiota is dominated by around 40 species that maintain persistent populations over the duration of one year. The findings allow conclusions about the ecological factors that shape the community and support the concept of a homeostatic ecosystem controlled largely by deterministic processes. Our analysis of a three-member community revealed that methodological artifacts of OTU-based approaches complicate core calculations, and these limitations have to be considered in the interpretation of microbiome studies.
+ER  - 
+TY  - JOUR
+T1  - Impact of diet and individual variation on intestinal microbiota composition and fermentation products in obese men
+A1  - Salonen, Anne
+A1  - Lahti, Leo
+A1  - Salojärvi, Jarkko
+A1  - Holtrop, Grietje
+A1  - Korpela, Katri
+A1  - Duncan, Sylvia H.
+A1  - Date, Priya
+A1  - Farquharson, Freda
+A1  - Johnstone, Alexandra M.
+A1  - Lobley, Gerald E.
+A1  - Louis, Petra
+A1  - Flint, Harry J.
+A1  - de Vos, Willem M
+Y1  - 2014/11//
+KW  - 16S rRNA
+KW  - dietary intervention
+KW  - intestinal microbiota
+KW  - phylogenetic microarray
+KW  - responder
+KW  - short chain fatty acid
+JF  - The ISME Journal
+VL  - 8
+IS  - 11
+SP  - 2218
+EP  - 2230
+SN  - 1751-7370 (Electronic)\r1751-7362 (Linking)
+DO  - 10.1038/ismej.2014.63
+UR  - http://www.nature.com/articles/ismej201463
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Research/Sources/2014 Salonen - Impact of diet and individual variation on intestinal microbiota composition and fermentation productsin obese men.pdf
+N2  - There is growing interest in understanding how diet affects the intestinal microbiota, including its possible associations with systemic diseases such as metabolic syndrome. Here we report a comprehensive and deep microbiota analysis of 14 obese males consuming fully controlled diets supplemented with resistant starch (RS) or non-starch polysaccharides (NSPs) and a weight-loss (WL) diet. We analyzed the composition, diversity and dynamics of the fecal microbiota on each dietary regime by phylogenetic microarray and quantitative PCR (qPCR) analysis. In addition, we analyzed fecal short chain fatty acids (SCFAs) as a proxy of colonic fermentation, and indices of insulin sensitivity from blood samples. The diet explained around 10% of the total variance in microbiota composition, which was substantially less than the inter-individual variance. Yet, each of the study diets induced clear and distinct changes in the microbiota. Multiple Ruminococcaceae phylotypes increased on the RS diet, whereas mostly Lachnospiraceae phylotypes increased on the NSP diet. Bifidobacteria decreased significantly on the WL diet. The RS diet decreased the diversity of the microbiota significantly. The total 16S ribosomal RNA gene signal estimated by qPCR correlated positively with the three major SCFAs, while the amount of propionate specifically correlated with the Bacteroidetes. The dietary responsiveness of the individual's microbiota varied substantially and associated inversely with its diversity, suggesting that individuals can be stratified into responders and non-responders based on the features of their intestinal microbiota.
+ER  - 
+TY  - JOUR
+T1  - Diet rapidly and reproducibly alters the human gut microbiome
+A1  - David, Lawrence A.
+A1  - Maurice, Corinne F.
+A1  - Carmody, Rachel N.
+A1  - Gootenberg, David B.
+A1  - Button, Julie E.
+A1  - Wolfe, Benjamin E.
+A1  - Ling, Alisha V.
+A1  - Devlin, A. Sloan
+A1  - Varma, Yug
+A1  - Fischbach, Michael A.
+A1  - Biddinger, Sudha B.
+A1  - Dutton, Rachel J.
+A1  - Turnbaugh, Peter J.
+Y1  - 2014/01//
+PB  - Nature Publishing Group
+JF  - Nature
+VL  - 505
+IS  - 7484
+SP  - 559
+EP  - 563
+SN  - 1476-4687 (Electronic)\n0028-0836 (Linking)
+DO  - 10.1038/nature12820
+UR  - http://dx.doi.org/10.1038/nature12820
+UR  - http://www.nature.com/articles/nature12820
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2013 David - Diet rapidly and reproducibly alters the human gut microbiome.pdf
+N2  - Long-term dietary intake influences the structure and activity of the trillions of microorganisms residing in the human gut, but it remains unclear how rapidly and reproducibly the human gut microbiome responds to short-term macronutrient change. Here we show that the short-term consumption of diets composed entirely of animal or plant products alters microbial community structure and overwhelms inter-individual differences in microbial gene expression. The animal-based diet increased the abundance of bile-tolerant microorganisms (Alistipes, Bilophila and Bacteroides) and decreased the levels of Firmicutes that metabolize dietary plant polysaccharides (Roseburia, Eubacterium rectale and Ruminococcus bromii). Microbial activity mirrored differences between herbivorous and carnivorous mammals, reflecting trade-offs between carbohydrate and protein fermentation. Foodborne microbes from both diets transiently colonized the gut, including bacteria, fungi and even viruses. Finally, increases in the abundance and activity of Bilophila wadsworthia on the animal-based diet support a link between dietary fat, bile acids and the outgrowth of microorganisms capable of triggering inflammatory bowel disease. In concert, these results demonstrate that the gut microbiome can rapidly respond to altered diet, potentially facilitating the diversity of human dietary lifestyles.
+ER  - 
+TY  - JOUR
+T1  - Development of the Human Infant Intestinal Microbiota
+A1  - Palmer, Chana
+A1  - Bik, Elisabeth M.
+A1  - DiGiulio, Daniel B.
+A1  - Relman, David A.
+A1  - Brown, Patrick O.
+ED  - Ruan, Yijun
+Y1  - 2007/06//
+JF  - PLoS Biology
+VL  - 5
+IS  - 7
+SP  - e177
+EP  - e177
+SN  - 1545-7885 (Electronic)
+DO  - 10.1371/journal.pbio.0050177
+UR  - https://dx.plos.org/10.1371/journal.pbio.0050177
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2007 Palmer - Development of the Human Infant Intestinal Microbiota [PLoS Biology].pdf
+N2  - Almost immediately after a human being is born, so too is a new microbial ecosystem, one that resides in that person's gastrointestinal tract. Although it is a universal and integral part of human biology, the temporal progression of this process, the sources of the microbes that make up the ecosystem, how and why it varies from one infant to another, and how the composition of this ecosystem influences human physiology, development, and disease are still poorly understood. As a step toward systematically investigating these questions, we designed a microarray to detect and quantitate the small subunit ribosomal RNA (SSU rRNA) gene sequences of most currently recognized species and taxonomic groups of bacteria. We used this microarray, along with sequencing of cloned libraries of PCR-amplified SSU rDNA, to profile the microbial communities in an average of 26 stool samples each from 14 healthy, full-term human infants, including a pair of dizygotic twins, beginning with the first stool after birth and continuing at defined intervals throughout the first year of life. To investigate possible origins of the infant microbiota, we also profiled vaginal and milk samples from most of the mothers, and stool samples from all of the mothers, most of the fathers, and two siblings. The composition and temporal patterns of the microbial communities varied widely from baby to baby. Despite considerable temporal variation, the distinct features of each baby's microbial community were recognizable for intervals of weeks to months. The strikingly parallel temporal patterns of the twins suggested that incidental environmental exposures play a major role in determining the distinctive characteristics of the microbial community in each baby. By the end of the first year of life, the idiosyncratic microbial ecosystems in each baby, although still distinct, had converged toward a profile characteristic of the adult gastrointestinal tract.
+ER  - 
+TY  - JOUR
+T1  - The dynamics of a family’s gut microbiota reveal variations on a theme
+A1  - Schloss, Patrick D
+A1  - Iverson, Kathryn D
+A1  - Petrosino, Joseph F
+A1  - Schloss, Sarah J
+Y1  - 2014/12//
+KW  - Chronosequence
+KW  - Community
+KW  - Development
+KW  - Dynamics
+KW  - Family
+KW  - Feces
+KW  - Microbiome
+JF  - Microbiome
+VL  - 2
+IS  - 1
+SP  - 25
+EP  - 25
+SN  - 0960-9822
+DO  - 10.1186/2049-2618-2-25
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0960982215012464
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/26549260
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4910640
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/25061514
+UR  - http://www.pubmedcentral.nih.gov/ar
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2014 Schloss - The dynamics of a family's gut microbiota reveal variations on a theme.pdf
+N2  - BACKGROUND It is clear that the structure and function of the human microbiota has significant impact on maintenance of health and yet the factors that give rise to an adult microbiota are poorly understood. A combination of genetics, diet, environment, and life history are all thought to impact the development of the gut microbiome. Here we study a chronosequence of the gut microbiota found in eight individuals from a family consisting of two parents and six children ranging in age from two months to ten years old. RESULTS Using 16S rRNA gene and metagenomic shotgun sequence data, it was possible to distinguish the family from a cohort of normal individuals living in the same geographic region and to differentiate each family member. Interestingly, there was a significant core membership to the family members' microbiota where the abundance of this core accounted for the differences between individuals. It was clear that the introduction of solids represents a significant transition in the development of a mature microbiota. This transition was associated with increased diversity, decreased stability, and the colonization of significant abundances of Bacteroidetes and Clostridiales. Although the children and mother shared essentially the identical diet and environment, the children's microbiotas were not significantly more similar to their mother than they were to their father. CONCLUSIONS This analysis underscores the complex interactions that give rise to a personalized microbiota and suggests the value of studying families as a surrogate for longitudinal studies.
+ER  - 
+TY  - JOUR
+T1  - Time series community genomics analysis reveals rapid shifts in bacterial species, strains, and phage during infant gut colonization
+A1  - Sharon, Itai
+A1  - Morowitz, Michael J.
+A1  - Thomas, Brian C.
+A1  - Costello, Elizabeth K.
+A1  - Relman, David A.
+A1  - Banfield, Jillian F.
+Y1  - 2013///
+JF  - Genome Research
+VL  - 23
+IS  - 1
+SP  - 111
+EP  - 120
+SN  - 1549-5469 (Electronic)\n1088-9051 (Linking)
+DO  - 10.1101/gr.142315.112
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2013 Sharon - Time series community genomics analysis reveals rapid shifts in bacterial species, strains, and phage during infant gut colonization.pdf
+N2  - The gastrointestinal microbiome undergoes shifts in species and strain abundances, yet dynamics involving closely related microorganisms remain largely unknown because most methods cannot resolve them. We developed new metagenomic methods and utilized them to track species and strain level variations in microbial communities in 11 fecal samples collected from a premature infant during the first month of life. Ninety six percent of the sequencing reads were assembled into scaffolds of >500 bp in length that could be assigned to organisms at the strain level. Six essentially complete (∼99%) and two near-complete genomes were assembled for bacteria that comprised as little as 1% of the community, as well as nine partial genomes of bacteria representing as little as 0.05%. In addition, three viral genomes were assembled and assigned to their hosts. The relative abundance of three Staphylococcus epidermidis strains, as well as three phages that infect them, changed dramatically over time. Genes possibly related to these shifts include those for resistance to antibiotics, heavy metals, and phage. At the species level, we observed the decline of an early-colonizing Propionibacterium acnes strain similar to SK137 and the proliferation of novel Propionibacterium and Peptoniphilus species late in colonization. The Propionibacterium species differed in their ability to metabolize carbon compounds such as inositol and sialic acid, indicating that shifts in species composition likely impact the metabolic potential of the community. These results highlight the benefit of reconstructing complete genomes from metagenomic data and demonstrate methods for achieving this goal.
+ER  - 
+TY  - JOUR
+T1  - Tipping elements in the human intestinal ecosystem
+A1  - Lahti, Leo
+A1  - Salojärvi, Jarkko
+A1  - Salonen, Anne
+A1  - Scheffer, Marten
+A1  - de Vos, Willem M.
+Y1  - 2014/12//
+JF  - Nature Communications
+VL  - 5
+IS  - 1
+SP  - 4344
+EP  - 4344
+SN  - 2041-1723 (Electronic)\r2041-1723 (Linking)
+DO  - 10.1038/ncomms5344
+UR  - http://www.nature.com/articles/ncomms5344
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/25003530
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4102116
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2014 Lahti, L. et al. - Tipping elements in the human intestinal ecosystem.pdf
+N2  - The microbial communities living in the human intestine can have profound impact on our well-being and health. However, we have limited understanding of the mechanisms that control this complex ecosystem. Here, based on a deep phylogenetic analysis of the intestinal microbiota in a thousand western adults, we identify groups of bacteria that exhibit robust bistable abundance distributions. These bacteria are either abundant or nearly absent in most individuals, and exhibit decreased temporal stability at the intermediate abundance range. The abundances of these bimodally distributed bacteria vary independently, and their abundance distributions are not affected by short-term dietary interventions. However, their contrasting alternative states are associated with host factors such as ageing and overweight. We propose that the bistable groups reflect tipping elements of the intestinal microbiota, whose critical transitions may have profound health implications and diagnostic potential.
+ER  - 
+TY  - JOUR
+T1  - Moving pictures of the human microbiome
+A1  - Caporaso, J. Gregory
+A1  - Lauber, Christian L.
+A1  - Costello, Elizabeth K.
+A1  - Berg-Lyons, Donna
+A1  - Gonzalez, Antonio
+A1  - Stombaugh, Jesse
+A1  - Knights, Dan
+A1  - Gajer, Pawel
+A1  - Ravel, Jacques
+A1  - Fierer, Noah
+A1  - Gordon, Jeffrey I.
+A1  - Knight, Rob
+Y1  - 2011///
+JF  - Genome Biology
+VL  - 12
+IS  - 5
+SP  - R50
+EP  - R50
+SN  - 1465-6914 (Electronic)\n1465-6906 (Linking)
+DO  - 10.1186/gb-2011-12-5-r50
+UR  - http://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-5-r50
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/21624126
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3271711
+L1  - file:///C:/Users/William/Documents/OneDrive backup/Bioinformatics/Thesis/Mendeley Library/2011 Caporaso - Moving pictures of the human microbiota.pdf
+N2  - BACKGROUND Understanding the normal temporal variation in the human microbiome is critical to developing treatments for putative microbiome-related afflictions such as obesity, Crohn’s disease, inflammatory bowel disease and malnutrition. Sequencing and computational technologies, however, have been a limiting factor in performing dense time series analysis of the human microbiome. Here, we present the largest human microbiota time series analysis to date, covering two individuals at four body sites over 396 timepoints. RESULTS We find that despite stable differences between body sites and individuals, there is pronounced variability in an individual’s microbiota across months, weeks and even days. Additionally, only a small fraction of the total taxa found within a single body site appear to be present across all time points, suggesting that no core temporal microbiome exists at high abundance (although some microbes may be present but drop below the detection threshold). Many more taxa appear to be persistent but non-permanent community members. CONCLUSIONS DNA sequencing and computational advances described here provide the ability to go beyond infrequent snapshots of our human-associated microbial ecology to high-resolution assessments of temporal variations over protracted periods, within and between body habitats and individuals. This capacity will allow us to define normal variation and pathologic states, and assess responses to therapeutic interventions.
+ER  - 

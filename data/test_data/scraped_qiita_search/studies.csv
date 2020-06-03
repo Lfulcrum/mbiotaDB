@@ -1,0 +1,126 @@
+study_id,title,num_samples,num_artifacts,pmids,dois,study_link
+77,A core gut microbiome in obese and lean twins.,281,6,['19043404'],['10.1038/nature07540'],https://qiita.ucsd.edu/study/description/77
+101,Succession of microbial consortia in the developing infant gut microbiome,63,8,"['20668239', '25974302']","['10.1073/pnas.1000081107', '10.1016/j.chom.2015.04.009']",https://qiita.ucsd.edu/study/description/101
+317,"The influence of sex, handedness, and washing on the diversity of hand surface bacteria.",182,4,['19004758'],['10.1073/pnas.0807920105'],https://qiita.ucsd.edu/study/description/317
+349,"Human oral, gut, and plaque microbiota in patients with atherosclerosis",73,6,['20937873'],['10.1073/pnas.1011383107'],https://qiita.ucsd.edu/study/description/349
+353,Effect of storage conditions on the assessment of bacterial community structure in soil and human-associated samples,144,4,['20412303'],['10.1111/j.1574-6968.2010.01965.x'],https://qiita.ucsd.edu/study/description/353
+395,Delivery mode effects on newborn microbiota,80,6,['20566857'],['10.1073/pnas.1002601107'],https://qiita.ucsd.edu/study/description/395
+449,Bacterial community variation in human body habitats across space and time,602,4,['19892944'],['10.1126/science.1177486'],https://qiita.ucsd.edu/study/description/449
+450,Bacterial community variation in human body habitats across space and time - transplants,263,4,['19892944'],['10.1126/science.1177486'],https://qiita.ucsd.edu/study/description/450
+452,The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice - assembly,160,4,['20368178'],['10.1126/scitranslmed.3000322'],https://qiita.ucsd.edu/study/description/452
+454,The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice - conventionally raised,36,4,['20368178'],['10.1126/scitranslmed.3000322'],https://qiita.ucsd.edu/study/description/454
+455,The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice - frozen donor,92,4,['20368178'],['10.1126/scitranslmed.3000322'],https://qiita.ucsd.edu/study/description/455
+456,The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice - conventionally raised - generation one,158,4,['20368178'],['10.1126/scitranslmed.3000322'],https://qiita.ucsd.edu/study/description/456
+457,The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice - generation two,91,4,['20368178'],['10.1126/scitranslmed.3000322'],https://qiita.ucsd.edu/study/description/457
+458,The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice - human twins,9,4,[],[],https://qiita.ucsd.edu/study/description/458
+459,The effect of diet on the human gut microbiome: a metagenomic analysis in humanized gnotobiotic mice - humanized mouse donor,8,4,[],[],https://qiita.ucsd.edu/study/description/459
+486,"Composition, variability, and temporal stability of the intestinal microbiota of the elderly",168,4,['20571116'],['10.1073/pnas.1000097107'],https://qiita.ucsd.edu/study/description/486
+492,Association between composition of the human gastrointestinal microbiome and development of fatty liver with choline deficiency,77,4,[],[],https://qiita.ucsd.edu/study/description/492
+494,Incomplete recovery and individualized responses of the human distal gut microbiota to repeated antibiotic perturbation,203,4,['20847294'],['10.1073/pnas.1000087107'],https://qiita.ucsd.edu/study/description/494
+495,Resistant starches types 2 and 4 have differential effects on the composition of the fecal microbiota in human subjects,162,4,['21151493'],['10.1371/journal.pone.0015046'],https://qiita.ucsd.edu/study/description/495
+524,Disordered microbial communities in the upper respiratory tract of cigarette smokers,291,4,['21188149'],['10.1371/journal.pone.0015216'],https://qiita.ucsd.edu/study/description/524
+550,Moving pictures of the human microbiome,1969,10,['21624126'],['10.1186/gb-2011-12-5-r50'],https://qiita.ucsd.edu/study/description/550
+625,Diet drives convergence in gut microbiome functions across mammalian phylogeny and within humans - human samples,21,6,['21596990'],['10.1126/science.1198719'],https://qiita.ucsd.edu/study/description/625
+626,Diet drives convergence in gut microbiome functions across mammalian phylogeny and within humans -animal samples,39,4,"['21596990', '25974302']","['10.1126/science.1198719', '10.1016/j.chom.2015.04.009']",https://qiita.ucsd.edu/study/description/626
+654,NLRP6 inflammasome regulates colonic microbial ecology and risk for colitis,212,3,['21565393'],['10.1016/j.cell.2011.04.022'],https://qiita.ucsd.edu/study/description/654
+714,A microbial clock provides an accurate estimate of the postmortem interval in a mouse model system,545,5,['24137541'],['10.7554/eLife.01104'],https://qiita.ucsd.edu/study/description/714
+797,Cohabiting family members share microbiota with one another and with their dogs,1071,10,['23599893'],['10.7554/eLife.00458'],https://qiita.ucsd.edu/study/description/797
+803,The impact of a consortium of fermented milk strains on the gut microbiome of gnotobiotic mice and monozygotic twins,179,4,['22030749'],['10.1126/scitranslmed.3002701'],https://qiita.ucsd.edu/study/description/803
+807,Human and environmental impacts on river sediment microbial communities,44,10,['24841417'],['10.1371/journal.pone.0097435'],https://qiita.ucsd.edu/study/description/807
+809,"Prokaryote populations of extant microbialites along a depth gradient in Pavilion Lake, British Columbia, Canada",21,7,[],[],https://qiita.ucsd.edu/study/description/809
+814,Composition of human skin microbiota affects attractiveness to malaria mosquitoes,89,4,['22216154'],['10.1371/journal.pone.0028991'],https://qiita.ucsd.edu/study/description/814
+833,Dog and human inflammatory bowel disease rely on overlapping yet distinct dysbiosis networks,192,7,['27694806'],['10.1038/nmicrobiol.2016.177'],https://qiita.ucsd.edu/study/description/833
+836,"Variation in the Microbiota of Ixodes ticks with geography, species and sex - 454",16,4,['26180832'],['10.1128/AEM.01562-15'],https://qiita.ucsd.edu/study/description/836
+850,"Human gut microbiome differentiation viewed across cultures, ages and families illumina",528,7,"['22699611', '25974302']","['10.1038/nature11053', '10.1016/j.chom.2015.04.009']",https://qiita.ucsd.edu/study/description/850
+1010,Linking Long-Term Dietary Patterns with Gut Microbial Enterotypes (cafe),95,6,"['21885731', '25974302']","['10.1126/science.1208344', '10.1016/j.chom.2015.04.009']",https://qiita.ucsd.edu/study/description/1010
+1011,Linking Long-Term Dietary Patterns with Gut Microbial Enterotypes (COMBO),102,4,"['21885731', '25974302']","['10.1126/science.1208344', '10.1016/j.chom.2015.04.009']",https://qiita.ucsd.edu/study/description/1011
+1191,"Impact of Dietary Resistant Starch on the Human Gut Microbiome, Metaproteome, and Metabolome",191,7,['29042495'],['10.1128/mBio.01343-17'],https://qiita.ucsd.edu/study/description/1191
+1259,Safety and pharmacokinetics of aciclovir in women following release from a silicone elastomer vaginal ring,36,10,['22556381'],['10.1093/jac/dks151'],https://qiita.ucsd.edu/study/description/1259
+1335,Microbial biogeography of public restroom surfaces,126,4,['22132229'],['10.1371/journal.pone.0028132'],https://qiita.ucsd.edu/study/description/1335
+1345,Architectural design influences the diversity and structure of the built environment microbiome,13,4,['22278670'],['10.1038/ismej.2011.211'],https://qiita.ucsd.edu/study/description/1345
+1364,Temporal dynamics in Bacterial community of Hydra polyps after hatching,40,4,[],[],https://qiita.ucsd.edu/study/description/1364
+1452,Genetically dictated change in host mucus carbohydrate landscape exerts a diet-dependent effect on the gut microbiota,58,3,['24062455'],['10.1073/pnas.1306070110'],https://qiita.ucsd.edu/study/description/1452
+1454,Persistent gut microbiota immaturity in malnourished Bangladeshi children - preliminary V4,875,4,['24896187'],['10.1038/nature13421'],https://qiita.ucsd.edu/study/description/1454
+1479,Office space bacterial abundance and diversity in three metropolitan areas,55,4,['22666400'],['10.1371/journal.pone.0037849'],https://qiita.ucsd.edu/study/description/1479
+1481,Ercolini whole grain feces,96,10,[],[],https://qiita.ucsd.edu/study/description/1481
+1566,"Diversity, distribution and sources of bacteria in residential kitchens",285,4,['23171378'],['10.1111/1462-2920.12036'],https://qiita.ucsd.edu/study/description/1566
+1622,Biodiversity and Functional Patterns of Microbial Assemblages in Postglacial Pond Sediment Profiles,353,7,[],[],https://qiita.ucsd.edu/study/description/1622
+1683,Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms,24,4,['22402401'],['10.1038/ismej.2012.8'],https://qiita.ucsd.edu/study/description/1683
+1684,Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms (MiSeq),24,10,['22402401'],['10.1038/ismej.2012.8'],https://qiita.ucsd.edu/study/description/1684
+1741,Molecular cartography of the human skin surface in 3D,900,7,['25825778'],['10.1073/pnas.1424409112'],https://qiita.ucsd.edu/study/description/1741
+1795,Advancing our understanding of the human microbiome using QIIME,96,10,['24060131'],['10.1016/B978-0-12-407863-5.00019-8'],https://qiita.ucsd.edu/study/description/1795
+1822,Reconstructing the microbial diversity and function of pre-agricultural tallgrass prairie soils in the United States,31,3,['24179225'],['10.1126/science.1243768'],https://qiita.ucsd.edu/study/description/1822
+1845,"Variation in the Microbiota of Ixodes ticks with geography, species and sex illumina",124,10,['26150449'],['10.1128/AEM.01562-15'],https://qiita.ucsd.edu/study/description/1845
+1885,"Variation in the Microbiota of Ixodes ticks with geography, species and sex",153,4,['26150449'],['10.1128/AEM.01562-15'],https://qiita.ucsd.edu/study/description/1885
+1889,A microbial clock provides an accurate estimate of the postmortem interval in a mouse model system - 18S,552,7,['24137541'],['10.7554/eLife.01104'],https://qiita.ucsd.edu/study/description/1889
+1924,Dynamic changes in short- and long-term bacterial composition following fecal microbiota transplantation for recurrent Clostridium difficile infection,152,10,['25825673'],['10.1186/s40168-015-0070-0'],https://qiita.ucsd.edu/study/description/1924
+1927,"Structure, function and diversity of the healthy human microbiome (V13)",3530,10,['22699609'],['10.1038/nature11234'],https://qiita.ucsd.edu/study/description/1927
+1928,"Structure, function and diversity of the healthy human microbiome (V35)",6346,10,['22699609'],['10.1038/nature11234'],https://qiita.ucsd.edu/study/description/1928
+1958,"Complex interactions among diet, gastrointestinal transit, and gut microbiota in humanized mice.",22,9,['23380084'],['10.1053/j.gastro.2013.01.047'],https://qiita.ucsd.edu/study/description/1958
+2010,Partial restoration of the microbiota of cesarean-born infants via vaginal microbial transfer,1994,10,['26828196'],['10.1038/nm.4039'],https://qiita.ucsd.edu/study/description/2010
+2014,Human Genetics Shape the Gut Microbiome (MiSeq),1081,10,['25417156'],['10.1016/j.cell.2014.09.053'],https://qiita.ucsd.edu/study/description/2014
+2148,Temporal variability is a personalized feature of the human microbiome - tongue samples,947,7,['25517225'],['10.1186/s13059-014-0531-y'],https://qiita.ucsd.edu/study/description/2148
+2149,Temporal variability is a personalized feature of the human microbiome - palm samples,932,7,['25517225'],['10.1186/s13059-014-0531-y'],https://qiita.ucsd.edu/study/description/2149
+2150,Temporal variability is a personalized feature of the human microbiome -forehead samples,939,7,['25517225'],['doi: 10.1186/s13059-014-0531-y'],https://qiita.ucsd.edu/study/description/2150
+2151,Temporal variability is a personalized feature of the human microbiome - fecal samples,917,7,['25517225'],['10.1186/s13059-014-0531-y'],https://qiita.ucsd.edu/study/description/2151
+2192,Longitudinal analysis of microbial interaction between humans and the indoor environment,1625,10,['25170151'],['10.1126/science.1254529'],https://qiita.ucsd.edu/study/description/2192
+2202,Host lifestyle affects human microbiota on daily timescales - fwd,820,7,"['25146375', '25974302']","['10.1186/gb-2014-15-7-r89', '10.1016/j.chom.2015.04.009']",https://qiita.ucsd.edu/study/description/2202
+2229,"Continental-scale variation in seaweed host-associated bacterial communities is a function of host condition, not geography",1393,4,['26148974'],['doi/10.1111/1462-2920.12972'],https://qiita.ucsd.edu/study/description/2229
+2401,Human Genetics Shape the Gut Microbiome - MiSeq2,556,4,['25417156'],['10.1016/j.cell.2014.09.053'],https://qiita.ucsd.edu/study/description/2401
+2639,American_Gut_UK_diet_intervention,210,4,[],[],https://qiita.ucsd.edu/study/description/2639
+10057,Changes in Microbial Ecology after Fecal Microbiota Transplantation for recurrent C. difficile Infection Affected by Underlying Inflammatory Bowel Disease,138,10,['28506317'],[],https://qiita.ucsd.edu/study/description/10057
+10071,LKH-Turin-Eekholt,39,0,[],[],https://qiita.ucsd.edu/study/description/10071
+10093,Diet Shapes the Gut Microbiome of Pigs During Nursing and Weaning.,222,10,['26167280'],['10.1186/s40168-015-0091-8'],https://qiita.ucsd.edu/study/description/10093
+10141,Metcalf Microbial community assembly and metabolic function during mammalian corpse decomposition Mouse exp,864,35,[],[],https://qiita.ucsd.edu/study/description/10141
+10142,Metcalf Microbial community assembly and metabolic function during mammalian corpse decomposition SHSU winter,635,28,[],[],https://qiita.ucsd.edu/study/description/10142
+10143,Metcalf Microbial community assembly and metabolic function during mammalian corpse decomposition SHSU April 2012 exp,997,26,[],[],https://qiita.ucsd.edu/study/description/10143
+10169,Human lung microbiome in Cystic Fibrosis - 3D reconstruction,1753,4,[],[],https://qiita.ucsd.edu/study/description/10169
+10171,"Characterizing the gut microbiome of the last population of undomesticated horses living in the wild, the Przewalski horse",279,7,[],[],https://qiita.ucsd.edu/study/description/10171
+10293,Impact of freeze-drying on milk oligosaccharide content and marker gene bacterial community profiles in infant fecal samples,144,1,['26819854'],['10.7717/peerj.1612'],https://qiita.ucsd.edu/study/description/10293
+10297,Growth and Morbidity of Gambian Infants are Influenced by Maternal Milk Oligosaccharides and Infant Gut Microbiota,85,10,[],[],https://qiita.ucsd.edu/study/description/10297
+10315,Phylogenetic and ecological factors impact the gut microbiota of two Neotropical primate species,199,10,[],[],https://qiita.ucsd.edu/study/description/10315
+10317,American Gut Project,26687,787,[],[],https://qiita.ucsd.edu/study/description/10317
+10321,Metcalf Microbial community assembly and metabolic function during mammalian corpse decomposition Fly Data,78,10,[],[],https://qiita.ucsd.edu/study/description/10321
+10330,Ankylosing Spondylitis Rats,864,7,['25140823'],['10.1371/journal.pone.0105684'],https://qiita.ucsd.edu/study/description/10330
+10352,Comparison of Fecal Collection Methods for Microbiota Studies in Bangladesh,1024,9,['28258145'],['10.1128/AEM.00361-17'],https://qiita.ucsd.edu/study/description/10352
+10353,"Microbial effects of livestock manure fertilization on freshwater aquaculture ponds rearing tilapia, O. shiranus, and African catfish, C. gariepinus",127,10,[],[],https://qiita.ucsd.edu/study/description/10353
+10394,Effects of preservation and storage conditions on the fecal microbiome,1566,7,[],['10.1128/mSystems.00021-16'],https://qiita.ucsd.edu/study/description/10394
+10422,"Intermittent hypoxia and hypercapnia, a hallmark of obstructive sleep apnea, alters the gut microbiome and metabolome",674,10,[],['10.1128/mSystems.00020-18'],https://qiita.ucsd.edu/study/description/10422
+10423,Geography and location are the primary drivers of office microbiome composition,4723,13,[],[],https://qiita.ucsd.edu/study/description/10423
+10442,Free-Living Amoeba Reservoirs of Pathogenic Leptospira,788,27,[],[],https://qiita.ucsd.edu/study/description/10442
+10496,Fruit pulp (mango) and soluble fibre (pectin) impact bacterial diversity and abundance differently within the porcine large intestine,178,8,[],[],https://qiita.ucsd.edu/study/description/10496
+10530,Mothers Secretor Status Affects Development of Childrens Microbiota Composition and Function: A Pilot Study.,37,10,[],[],https://qiita.ucsd.edu/study/description/10530
+10532,Microbiota Transfer Therapy alters gut ecosystem and improves gastrointestinal and autism symptoms: an open-label study,503,40,['28122648'],[],https://qiita.ucsd.edu/study/description/10532
+10541,Human milk oligosaccharides (HMOs) and other human milk components as drivers of the infant gut microbiome and metabolome,480,10,[],[],https://qiita.ucsd.edu/study/description/10541
+10581,Cohort of human mothers and babies from El Salvador,182,14,[],[],https://qiita.ucsd.edu/study/description/10581
+10589,STAMPS 2016 Tutorial,34,10,[],[],https://qiita.ucsd.edu/study/description/10589
+10778,Faecal microbiota and Fat Free Mass Index in 2 to 3 year old well-nourished Australian children.,36,12,[],[],https://qiita.ucsd.edu/study/description/10778
+10786,Patterns in gut microbiota similarity associated with degree of sociality among sex classes of a Neotropical primate.,32,4,[],[],https://qiita.ucsd.edu/study/description/10786
+10794,Effect of dietary lignan on pig cecal microbiome,30,4,[],[],https://qiita.ucsd.edu/study/description/10794
+10856,Steatohepatitis progresses to cancer via immunosuppression of HCC directed by CD8+Tcells,480,13,['29144460'],['10.1038/nature24302'],https://qiita.ucsd.edu/study/description/10856
+10917,Mouse microbiome response to Streptococcus pyogenes infection,192,9,[],[],https://qiita.ucsd.edu/study/description/10917
+10933,Maternal Immune Activation,196,10,[],[],https://qiita.ucsd.edu/study/description/10933
+10934,KatharoSeq enables high-throughput microbiome analysis from low-biomass samples,1260,10,[],[],https://qiita.ucsd.edu/study/description/10934
+10936,The effects of captivity on the mammalian gut microbiome,307,7,['28985326'],['10.1093/icb/icx090'],https://qiita.ucsd.edu/study/description/10936
+11043,Gut microbiome of virally-infected C57BL/6 mice,1510,10,[],[],https://qiita.ucsd.edu/study/description/11043
+11119,A vegetable fermentation facility hosts distinct microbiomes reflecting the production environment,56,0,['30171008'],['10.1128/AEM.01680-18'],https://qiita.ucsd.edu/study/description/11119
+11129,Effects of Type 1 Diabetes Mellitus and Increased Weight on Metabolomic and Microbiome Profiles in the Pediatric Population,379,16,[],[],https://qiita.ucsd.edu/study/description/11129
+11212,Evolutionary trends in host physiology outweigh dietary niche in structuring primate gut,172,12,[],[],https://qiita.ucsd.edu/study/description/11212
+11261,Cider-Project,288,10,[],[],https://qiita.ucsd.edu/study/description/11261
+11335,Three dimensional cartography of microbiome and metabolome data onto radiological images of the human lung,119,4,[],[],https://qiita.ucsd.edu/study/description/11335
+11336,Gut bacteria from multiple sclerosis patients modulate human T cells and exacerbate symptoms in mouse models.,148,8,['28893978'],['10.1073/pnas.1711235114'],https://qiita.ucsd.edu/study/description/11336
+11349,Microbiota Accessible Carbohydrates Suppress Clostridium difficile Infection in a Murine Model,915,10,[],[],https://qiita.ucsd.edu/study/description/11349
+11358,Seasonal Cycling in the Gut Microbiome of the Hadza Hunter-Gatherers of Tanzania,955,18,['28839072'],['10.1126/science.aan4834'],https://qiita.ucsd.edu/study/description/11358
+11513,Gut microbiota utilize immunoglobulin A for mucosal colonization,439,10,['29724905'],['10.1126/science.aaq0926'],https://qiita.ucsd.edu/study/description/11513
+11541,Host DNA depletion method comparison,155,0,[],[],https://qiita.ucsd.edu/study/description/11541
+11550,Diet rapidly and reproducibly alters the human gut microbiome,414,12,['24336217'],['10.1038/nature12820'],https://qiita.ucsd.edu/study/description/11550
+11669,Fecal microbiota composition drives immune activation in HIV-infected individuals,90,3,[],[],https://qiita.ucsd.edu/study/description/11669
+11712,Influence of Donor Human Milk versus Formula on the Microbiota of Late Preterm Infants,1733,3,[],[],https://qiita.ucsd.edu/study/description/11712
+11760,The Reestablishment of Microbial Communities after Surface Cleaning in Schools,54,4,[],['10.1111/jam.13898'],https://qiita.ucsd.edu/study/description/11760
+11809,Human Gut Microbiota from Autism Spectrum Disorder Promote Behavioral Symptoms in Mice,117,4,[],[],https://qiita.ucsd.edu/study/description/11809
+11874,Changes in the gut microbiota of urban subjects during an immersion in the traditional diet and lifestyle of a rainforest village,572,20,[],[],https://qiita.ucsd.edu/study/description/11874
+11947,Gut microbiome transition across a lifestyle gradient in Himalaya,79,10,[],['10.1101/253450'],https://qiita.ucsd.edu/study/description/11947
+11993,Gut microbiota is associated with obesity and cardiometabolic disease in a population in the midst of Westernization,441,7,[],"['10.1038/s41598-018-29687-x', '10.1038/ijo.2017.281', '10.2337/dc16-1324', '10.1101/394726']",https://qiita.ucsd.edu/study/description/11993
+12080,US Immigration Westernizes the Human Gut Microbiome,694,10,['30388453'],['10.1016/j.cell.2018.10.029'],https://qiita.ucsd.edu/study/description/12080
+12199,Microbiome recovery following colorectal surgery and antibiotic exposure in mice is dependent on diet and has a major influence on anastomotic healing: a longitudinal 16S rRNA analysis,480,4,[],[],https://qiita.ucsd.edu/study/description/12199
+12241,Gut microbiota from high-risk men who have sex with men drive immune activation in gnotobiotic mice and in vitro HIV infection,157,4,[],[],https://qiita.ucsd.edu/study/description/12241
